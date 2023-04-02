@@ -1,0 +1,1 @@
+lib/sdl2 version 2.26.4
